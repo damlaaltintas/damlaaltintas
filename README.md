@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Damla
-- 🌱 I’m currently learning Flutter 
 
 
 
