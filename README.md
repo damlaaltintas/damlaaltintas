@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Damla
+- 🎓 B.Sc. Computer Engineering (2025) — 100% English-medium  
 
 
 
